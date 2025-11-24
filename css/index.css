@@ -1,0 +1,21 @@
+body {
+  background-image:url("../images/what-is-space-milky-way-full-width.jpg.thumb.1920.1920.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+h2{
+    font-size: 30px;
+}
+
+.title{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.content{
+    margin: 5vw;
+    color: white;
+}
