@@ -3,15 +3,18 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  text-align: center;
+  min-height: 100vh;
+background-color: #000;
 }
 
 h2{
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .title{
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
     color: white;
 }
 
