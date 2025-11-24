@@ -1,11 +1,17 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
 body {
-  background-image:url("../images/what-is-space-milky-way-full-width.jpg.thumb.1920.1920.png");
+  min-height: 100vh;
+  background-color: #000;
+  background-image: url("../images/what-is-space-milky-way-full-width.jpg.thumb.1920.1920.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   text-align: center;
-  min-height: 100vh;
-background-color: #000;
 }
 
 h2{

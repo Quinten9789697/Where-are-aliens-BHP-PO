@@ -6,11 +6,11 @@ html, body {
 body{
   min-height: 100vh;
   background-color: #000;
-  background-image: url(../images/replacment greatfilter.png);
+  background-image: url("../images/replacment greatfilter.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   text-align: center;
-  color: #fff;
+  color: #000000;
 }
