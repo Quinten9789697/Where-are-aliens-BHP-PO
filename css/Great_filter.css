@@ -1,0 +1,8 @@
+body{
+  background-image:url(../images/Black-Hole-Birthing-Stars.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  min-height: 100vh;
+}
