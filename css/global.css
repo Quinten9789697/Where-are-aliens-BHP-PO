@@ -33,3 +33,22 @@ a{text-decoration: none;}
   background: rgba(255, 255, 255, 0.08);
   transform: translateY(-2px);
 }
+
+.nav-item img:hover {
+  transform: none;
+}
+
+.title{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+.content{
+    margin: 5vw;
+    color: white;
+}
+
+.bhpimg{
+    margin-left: 5vw;
+}

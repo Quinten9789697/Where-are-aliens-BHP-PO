@@ -1,0 +1,9 @@
+body{
+background-image:url("../images/Fermi_paradox_bg.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+min-height: 100vh;
+text-align: center;
+}
+
