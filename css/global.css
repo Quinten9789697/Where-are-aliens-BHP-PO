@@ -27,6 +27,11 @@ a{text-decoration: none;}
   background: transparent;
   border-radius: 8px;
   transition: background 0.25s ease, transform 0.15s ease;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  
 }
 
 .nav-item:hover {
