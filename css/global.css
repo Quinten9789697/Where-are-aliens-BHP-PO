@@ -50,8 +50,9 @@ a{text-decoration: none;}
 }
 
 .content{
-    margin: 5vw;
-    color: white;
+  margin: 0 10vw 10vw;
+  padding: 24px;
+  color: white;
 }
 
 .bhpimg{
