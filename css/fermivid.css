@@ -1,0 +1,7 @@
+.image-row {
+  display: flex;
+  justify-content: center;     /* centers the whole row */
+  gap: 30px;                   /* spacing between images */
+  flex-wrap: wrap;             /* allows wrapping on smaller screens */
+  margin-top: 30px;
+}
