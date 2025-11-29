@@ -1,1 +1,19 @@
 body{background-color: black;}
+
+.container {
+  text-align: center; /* centers everything inside */
+}
+
+.images img {
+  margin: 0 10px; /* spacing between images */
+}
+
+.text {
+  display: flex;             /* puts <p> tags in one line */
+  justify-content: center;   /* centers them horizontally */
+  gap: 15px;                 /* spacing between <p> tags */
+}
+
+.text p {
+  margin: 0; /* remove default margins */
+}
